@@ -18,8 +18,6 @@ I'm a self-motivated indie developer. I've been thinking about working on my fir
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ![MIT License](https://img.shields.io/badge/version-0.1-blue)
