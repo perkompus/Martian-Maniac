@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3411298699906920264
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9212222236818527482}
+  - component: {fileID: 5941465167319604047}
+  m_Layer: 0
+  m_Name: Version 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9212222236818527482
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3411298699906920264}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.28, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5941465167319604047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3411298699906920264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053d23bd3cfbdf34f826bfd89b0ed574, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PelletParticles: {fileID: 3020656749648383122, guid: 58ff7d92d5f56ab49b7b59021d90bbbe, type: 3}
+  LeafParticles: {fileID: 6037347579657148098, guid: 4291e1fdaa9330f4298b93ffed1f93d0, type: 3}
+  innerBubblePrefab: {fileID: 4076392301063886007, guid: 3750889e1a551a540a084bd604b0419c, type: 3}
+  innerBubbleInitialSize: 1
+  innerBubbleTargetSize: 0.5
+  outerBubblePrefab: {fileID: 2050556160473120175, guid: 2937d422062369b4396dd7b1b461eeac, type: 3}
+  outerBubbleInitialSize: 0
+  outerBubbleTargetSize: 1.5
+  explosionDuration: 5
