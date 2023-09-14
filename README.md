@@ -4,7 +4,7 @@
 
 # Half Night Recall
 
-The game is planned to be completed in nine stages, with a connected storyline. Each story contains about 20 minutes of engagement. separated by songs
+A daughter, torn from this world too soon, cries out from beyond the grave for one last chance to see her beloved father, to hold him close and feel his warmth once more.
 
 
 ## Authors
