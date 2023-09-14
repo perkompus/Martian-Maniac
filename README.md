@@ -13,7 +13,7 @@ A daughter, torn from this world too soon, cries out from beyond the grave for o
 
 
 ## 🚀 About Me
-I'm a self-motivated indie developer. I've been thinking about working on my first game since 2017. It's definitely not my first attempt, as I have tried and failed before... but I continue on.
+As an indie developer driven by self-motivation, I’ve harbored the ambition to create my first game since 2017. This isn’t my first rodeo, as I’ve faced setbacks in previous attempts. However, I remain steadfast and continue to forge ahead on this path.
 
 
 ## Badges
