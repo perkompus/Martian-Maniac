@@ -27,5 +27,5 @@ As an indie developer driven by self-motivation, I’ve harbored the ambition to
 
 ## Demo
 
-Will be released soon :)
+The anticipation is building! The game is on the cusp of release and will soon be ready for players to dive into its captivating world. Stay tuned for the big reveal! 😊
 
