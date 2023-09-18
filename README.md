@@ -1,10 +1,10 @@
 
-![Logo](https://i.ibb.co/mh9585X/Group-280.png)
+![Logo](https://i.ibb.co/x37kvkg/Group-280.png)
 
 
 # Half Night Recall
 
-The game is planned to be completed in nine stages, with a connected storyline. Each story contains about 20 minutes of engagement. separated by songs
+A daughter, torn from this world too soon, cries out from beyond the grave for one last chance to see her beloved father, to hold him close and feel his warmth once more.
 
 
 ## Authors
@@ -13,17 +13,19 @@ The game is planned to be completed in nine stages, with a connected storyline. 
 
 
 ## 🚀 About Me
-I'm a self-motivated indie developer. I've been thinking about working on my first game since 2017. It's definitely not my first attempt, as I have tried and failed before... but I continue on.
+As an indie developer driven by self-motivation, I’ve harbored the ambition to create my first game since 2017. This isn’t my first rodeo, as I’ve faced setbacks in previous attempts. However, I remain steadfast and continue to forge ahead on this path.
 
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+![MIT License](https://img.shields.io/badge/version-0.1-blue)
+
+
 
 
 ## Demo
 
-Will be released soon :)
+The anticipation is building! The game is on the cusp of release and will soon be ready for players to dive into its captivating world. Stay tuned for the big reveal! 😊
 
