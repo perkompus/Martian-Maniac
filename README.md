@@ -2,9 +2,9 @@
 ![Logo](https://i.ibb.co/x37kvkg/Group-280.png)
 
 
-# Half Night Recall
+# Martian Maniac
 
-A daughter, torn from this world too soon, cries out from beyond the grave for one last chance to see her beloved father, to hold him close and feel his warmth once more.
+Marooned on the crimson plains of Mars, a solitary automaton finds itself in an alien world. It's not just a machine, but a pioneer, charting a course through the unknown. With each passing Martian day, it unravels the secrets of the red planet, deploying an array of ingenious tactics. Its goal? To metamorphose this desolate world into a sanctuary for humanity, a place where life can thrive amidst the stars.
 
 
 ## Authors
